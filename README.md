@@ -14,7 +14,7 @@
 </div>
 
 ### 📖 About Me
-I am a proactive developer focused on bridging the gap between **Large Language Models** and interactive environments. Currently diving deep into AI-driven logic and system architecture.
+I focus on combining **Large Language Models** with interactive environments. I often use AI as development tool to quickly turn ideas into functional code.
 
 ---
 
