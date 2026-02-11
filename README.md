@@ -31,7 +31,7 @@ I am a proactive developer focused on bridging the gap between **Large Language 
 
 *   **[Yandex Games: Tanks, inspired by dendy]**
     * Mobile-optimized procedural world with polished UX/UI. (Legacy / Optimization focus).  
-    * [Draft available here](https://yandex.ru)
+    * [Draft available here](https://yandex.ru/games/app/475970?draft=true&lang=en)
 
 *   **[Play Market: 3D Among us, Commercial]**
     * Freelance contribution to a large-scale commercial project (NDA protected code).
