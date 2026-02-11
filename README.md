@@ -27,7 +27,7 @@ I am a proactive developer focused on bridging the gap between **Large Language 
 *   **[RAG School System]**  
     *Contribution to an automated enrollment system with intelligent AI-driven distribution.*
 *   **[Yandex Games: Tanks]**  
-    *Mobile-optimized procedural world with polished UX/UI. (Legacy / Optimization focus).*
+    *Mobile-optimized procedural world with polished UX/UI. (Legacy / Optimization focus). draft availble here: https://yandex.ru/games/app/475970?draft=true&lang=en*
 *   **[Play Market: Commercial]**  
     *Freelance contribution to a large-scale commercial project (NDA protected code).*
 
