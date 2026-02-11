@@ -1,4 +1,4 @@
-# Hi there, I'm Vyacheslav
+# Hi there, some about me
 **AI Integrator | Unity Developer | Cyberpunk Modder**
 
 I am a proactive developer focused on **LLM orchestration**, **RAG systems**, and **Game Development**. Currently diving deep into AI-driven logic and system architecture.
