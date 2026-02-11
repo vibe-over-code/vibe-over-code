@@ -20,16 +20,21 @@ I am a proactive developer focused on bridging the gap between **Large Language 
 
 ### 🚀 Featured Projects
 
-*   **[Cyberpunk 2077 AI Mod]**  
-    *Integrated local LLM for game chat. Fine-tuned models for immersive, context-aware NPC responses.*
+*   **[Cyberpunk 2077 AI Mod]**
+    * Integrated local LLM for game chat. Fine-tuned models for immersive, context-aware NPC responses.
+
 *   **[LLM Fine-Tuning Interface]**
-    *Web application for training and testing LoRA adapters with BitsAndBytes quantization support.*
-*   **[RAG agent for registration System]**  
-    *Contribution to an automated enrollment system with intelligent AI-driven distribution.(now in development)*
-*   **[Yandex Games: Tanks]**  
-    *Mobile-optimized procedural world with polished UX/UI. (Legacy / Optimization focus). draft availble here: https://yandex.ru/games/app/475970?draft=true&lang=en*
-*   **[Play Market: Commercial]**  
-    *Freelance contribution to a large-scale commercial project (NDA protected code).*
+    * Web application for training and testing LoRA adapters with BitsAndBytes quantization support.
+
+*   **[RAG agent for registration System]**
+    * Contribution to an automated enrollment system with intelligent AI-driven distribution. *(Now in development)*
+
+*   **[Yandex Games: Tanks, inspired by dendy]**
+    * Mobile-optimized procedural world with polished UX/UI. (Legacy / Optimization focus).  
+    * [Draft available here](https://yandex.ru)
+
+*   **[Play Market: 3D Among us, Commercial]**
+    * Freelance contribution to a large-scale commercial project (NDA protected code).
 
 ---
 
