@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there, I'm Developer
+# 👋 Hi there, some about me
 **AI Integrator | Unity Developer | Cyberpunk Modder**
 
 ---
@@ -22,6 +22,8 @@ I am a proactive developer focused on bridging the gap between **Large Language 
 
 *   **[Cyberpunk 2077 AI Mod]**  
     *Integrated local LLM for game chat. Fine-tuned models for immersive, context-aware NPC responses.*
+    **[Fine tuning interface\app]**
+    *Web app for creating adapters for llms, test models with adapters*
 *   **[RAG School System]**  
     *Contribution to an automated enrollment system with intelligent AI-driven distribution.*
 *   **[Yandex Games: Tanks]**  
