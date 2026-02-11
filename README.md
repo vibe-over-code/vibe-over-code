@@ -22,8 +22,8 @@ I am a proactive developer focused on bridging the gap between **Large Language 
 
 *   **[Cyberpunk 2077 AI Mod]**  
     *Integrated local LLM for game chat. Fine-tuned models for immersive, context-aware NPC responses.*
-*   **[Fine tuning interface\app]**
-    *Web app for creating adapters for llms, test models with adapters*
+*   **[LLM Fine-Tuning Interface]**
+    *Web application for training and testing LoRA adapters with BitsAndBytes quantization support.*
 *   **[RAG agent for registration System]**  
     *Contribution to an automated enrollment system with intelligent AI-driven distribution.(now in development)*
 *   **[Yandex Games: Tanks]**  
