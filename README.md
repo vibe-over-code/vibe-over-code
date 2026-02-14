@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi there, some about me
-**AI Integrator | Unity Developer | Cyberpunk Modder**
+**AI & Game Developer | Modder**
 
 ---
 
@@ -14,7 +14,7 @@
 </div>
 
 ### 📖 About Me
-I focus on combining **Large Language Models** with interactive environments. I often use AI as development tool to quickly turn ideas into functional code.
+I focus on combining **LLMs** with interactive environments. I often use AI as development tool to quickly turn ideas into functional code.
 
 ---
 
@@ -26,22 +26,20 @@ I focus on combining **Large Language Models** with interactive environments. I 
 *   **[LLM Fine-Tuning Interface]**
     * Web application for training and testing LoRA adapters with BitsAndBytes quantization support.
 
-*   **[RAG agent for registration System]**
-    * Contribution to an automated enrollment system with intelligent AI-driven distribution. *(Now in development)*
-
 *   **[Yandex Games: Tanks, inspired by dendy]**
     * Mobile-optimized procedural world with polished UX/UI. (Legacy / Optimization focus).  
     * [Draft available here](https://yandex.ru/games/app/475970?draft=true&lang=en)
 
 *   **[Play Market: 3D Among us, Commercial]**
     * Freelance contribution to a large-scale commercial project (NDA protected code).
+    * [available here](https://play.google.com/store/apps/details?id=com.kijay.theimpostor)
 
 ---
 
 ### ⚡ Technical Arsenal
-- **Languages:** `Python`, `C#`, `C++ (Basics)`
-- **AI/ML:** `QLoRA`, `Quantization`, `Vector Databases`, `RAG`
-- **Engines:** `Unity`, `REDengine`
+- **Languages:** `Python`, `C#(Unity)`, `C++ (Basics)`
+- **AI/ML:** `QLoRA`, `Vector Databases`, `RAG`
+- **Engines:** `Unity`, `REDengine(minimal)`
 
 ---
 
