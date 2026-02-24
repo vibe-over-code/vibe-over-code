@@ -36,20 +36,6 @@ I focus on combining **LLMs** with interactive environments. I often use AI as d
 
 ---
 
-### ⚡ Technical Arsenal
-- **Languages:** `Python`, `C#(Unity)`, `C++ (Basics)`
-- **AI/ML:** `QLoRA`, `Vector Databases`, `RAG`
-- **Engines:** `Unity`, `REDengine(minimal)`
-
----
-
-### 🎯 Current Focus
-- [ ] Reducing the code written by AI in projects
-- [ ] Mastering the **Mathematics** behind Transformers.
-- [ ] Researching deep **LLM integration** into real-time game logic.
-
----
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app" alt="Top Langs" />
 </div>
