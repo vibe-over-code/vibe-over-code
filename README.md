@@ -30,9 +30,6 @@ I focus on combining **LLMs** with interactive environments. I often use AI as d
     * Mobile-optimized procedural world with polished UX/UI. (Legacy / Optimization focus).  
     * [Draft available here](https://yandex.ru/games/app/475970?draft=true&lang=en)
 
-*   **[Play Market: 3D Among us, Commercial]**
-    * Freelance contribution to a large-scale commercial project (NDA protected code).
-    * [available here](https://play.google.com/store/apps/details?id=com.kijay.theimpostor)
 
 ---
 
