@@ -20,6 +20,9 @@ I focus on combining **LLMs** with interactive environments. I often use AI as d
 
 ### 🚀 Featured Projects
 
+*   **[AI Emotions analizator for trading]**
+    * Analysis of client emotions for targeted strategy selection
+
 *   **[Cyberpunk 2077 AI Mod]**
     * Integrated local LLM for game chat. Fine-tuned models for immersive, context-aware NPC responses.
 
